@@ -1,0 +1,8 @@
+{
+    "name": "creativminds/meta",
+    "description": "a simple blog meta for seo",
+    "type": "library",
+    "license": "mit",
+    "minimum-stability": "dev",
+    "require": {}
+}
